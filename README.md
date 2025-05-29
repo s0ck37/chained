@@ -1,6 +1,7 @@
 # CHAINED
 Proxy chain trough a simple proxy server  
-Chain multiple proxies with the simplicity of only having to use one proxy.
+Chain multiple proxies with the simplicity of only having to use one proxy.  
+Only SOCKS5 proxies supported!  
 
 ## How to run
 ```bash
