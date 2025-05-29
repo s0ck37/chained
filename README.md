@@ -13,3 +13,6 @@ Just edit the main.py file and change the proxies for the ones you like
 
 ## Issues
 Feel free to open a issue in the Issues section of the github repo.
+
+## Reference
+https://www.ietf.org/rfc/rfc1928.txt.pdf
