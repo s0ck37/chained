@@ -1,5 +1,6 @@
 # CHAINED
-Proxy chain trough a simple proxy server
+Proxy chain trough a simple proxy server  
+Chain multiple proxies with the simplicity of only having to use one proxy.
 
 ## How to run
 ```bash
